@@ -1,0 +1,4 @@
+name: "GuiAPI"
+main: ru.ragnok123.spigot.guiAPI.MenuMain
+version: "1.0"
+author: "Ragnok123"
